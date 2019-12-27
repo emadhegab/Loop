@@ -1,0 +1,17 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "حلقة";
+
+/* Bundle name */
+"CFBundleName" = "$(PRODUCT_NAME)";
+
+/* Privacy - Bluetooth Peripheral Usage Description */
+"NSBluetoothPeripheralUsageDescription" = "البلوتوث يستخدم للتواصل مع مضخة الإنسولين و جهاز مراقبة الجلوكوز المستمر.";
+
+/* Privacy - Face ID Usage Description */
+"NSFaceIDUsageDescription" = "التحقق من الوجه يستخدم لإدخال جرعات الإنسولين.";
+
+/* Privacy - Health Share Usage Description */
+"NSHealthShareUsageDescription" = "بيانات الوجبات من قاعدة بيانات الصحة تستخدم لتحديد تأثير الجلوكوز. بيانات الجلوكوز من قاعدة بيانات الصحة تستخدم من أجل الرسم البياني و الحساب.";
+
+/* Privacy - Health Update Usage Description */
+"NSHealthUpdateUsageDescription" = "بيانات الكربوهايدرات في الوجبات اللتي تدخل في البرنامج و الساعة, تحفظ في قاعدة بيانات الصحة بيانات الجلوكوز التي يتم سحبها من مراقب الجلوكوز تحفظ بأمان في عدة الصحة الخاصة بأبل.";
